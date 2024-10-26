@@ -11,5 +11,7 @@ Noise: TBD
 - Co-designer
 
 # Gallery
+<p align="center">
 <img src="Images/fren_r0.PNG" height="650" width="700">
 <img src="Images/bren_r0.PNG" height="650" width="700">
+</p>

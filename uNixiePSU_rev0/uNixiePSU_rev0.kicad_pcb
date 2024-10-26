@@ -563,6 +563,7 @@
 		(property "Reference" "C2"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "424b0b80-6919-4468-acad-131f88c88d82")
 			(effects
 				(font
@@ -3941,6 +3942,7 @@
 		(property "Reference" "D1"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7dc49186-67b0-43da-aeb6-3520e4ee3223")
 			(effects
 				(font
@@ -7451,6 +7453,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e8867d02-096c-40c0-853f-b9a851deae7b")
+	)
+	(gr_text "r0"
+		(at 18.15 9.65 -0)
+		(layer "B.SilkS")
+		(uuid "290cf55d-1e03-40e2-8584-45e2fce52193")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
 	)
 	(gr_text "µNixiePSU"
 		(at 23.4 5.65 0)

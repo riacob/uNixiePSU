@@ -9,7 +9,7 @@
 		(date "2024-10-28")
 		(rev "0")
 		(company "Riccardo Iacob, Arwid Vasilev")
-		(comment 1 "Open Source Hardware - MIT License")
+		(comment 1 "Open Source Hardware - CC BY-NC License")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"

@@ -13,7 +13,7 @@ This project is provided "as is" without any warranty, express or implied. By us
 
 # Contributors
 [Arwid Vasilev](github.com/arwidcool)
-- Co-designer
+- Layout co-designer
 
 # Gallery
 <p align="center">
